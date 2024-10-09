@@ -201,7 +201,7 @@ body {
     padding: 15px 15px;
     width: 100px;
     background-color: #CBC3E3;
-    color: darkmagenta;
+    color: rgb(0, 0, 0);
     font-weight: 600;
     cursor: pointer;
     margin-top: 15px;
@@ -210,8 +210,8 @@ body {
 }
 
 .herocontainer__card button:hover {
-    background-color: #DA70D6;
-    color: white;
+    background-color:  #ffffff;
+    color: rgb(0, 0, 0);
     transition: 1s;
 }
 
